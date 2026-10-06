@@ -1,0 +1,206 @@
+{
+    "meta": {
+        "title": "برنامه هشت‌ترمی پیشنهادی کارشناسی علوم کامپیوتر",
+        "note": "این چیدمان صرفاً یک پیشنهاد برای گذراندن معقول دروس بر اساس زنجیره‌ی پیش‌نیازهاست؛ بر اساس واحدهای گذرانده و ظرفیت هر ترم می‌تواند تغییر کند. دروس «عمومی» و «اختیاری» به‌عنوان جای‌خالی نمایش داده می‌شوند چون سرفصل اختصاصی مشخصی در آیین‌نامه ندارند."
+    },
+    "terms": [
+        {
+            "term": 1,
+            "items": [
+                {
+                    "placeholder": "عمومی",
+                    "note": "فارسی عمومی"
+                },
+                {
+                    "placeholder": "عمومی",
+                    "note": "زبان انگلیسی"
+                },
+                {
+                    "id": "statistical-software-and-data-analysis"
+                },
+                {
+                    "id": "computer-workshop-1"
+                },
+                {
+                    "id": "computer-fundamentals-programming"
+                },
+                {
+                    "id": "foundations-of-mathematics"
+                },
+                {
+                    "id": "calculus-i"
+                }
+            ]
+        },
+        {
+            "term": 2,
+            "items": [
+                {
+                    "placeholder": "عمومی"
+                },
+                {
+                    "placeholder": "عمومی"
+                },
+                {
+                    "id": "internship"
+                },
+                {
+                    "id": "computer-workshop-2"
+                },
+                {
+                    "id": "advanced-programming"
+                },
+                {
+                    "id": "fundamentals-of-logic"
+                },
+                {
+                    "id": "probability-and-statistics-i"
+                },
+                {
+                    "id": "calculus-ii"
+                }
+            ]
+        },
+        {
+            "term": 3,
+            "items": [
+                {
+                    "placeholder": "عمومی"
+                },
+                {
+                    "id": "english-for-computer-science"
+                },
+                {
+                    "id": "programming-languages"
+                },
+                {
+                    "id": "data-structures"
+                },
+                {
+                    "id": "statistical-data-analysis"
+                },
+                {
+                    "id": "foundations-of-mathematical-analysis"
+                },
+                {
+                    "id": "differential-equations"
+                }
+            ]
+        },
+        {
+            "term": 4,
+            "items": [
+                {
+                    "placeholder": "اختیاری"
+                },
+                {
+                    "id": "entrepreneurship"
+                },
+                {
+                    "id": "computer-systems-principles"
+                },
+                {
+                    "id": "foundation-of-numerical-analysis"
+                },
+                {
+                    "id": "foundations-of-combinatorics"
+                },
+                {
+                    "id": "elementary-scientific-computing"
+                }
+            ]
+        },
+        {
+            "term": 5,
+            "items": [
+                {
+                    "placeholder": "اختیاری"
+                },
+                {
+                    "id": "basics-of-digital-economics"
+                },
+                {
+                    "id": "databases"
+                },
+                {
+                    "id": "design-analysis-algorithms"
+                },
+                {
+                    "id": "elementary-machine-learning"
+                },
+                {
+                    "id": "operations-research"
+                }
+            ]
+        },
+        {
+            "term": 6,
+            "items": [
+                {
+                    "placeholder": "عمومی"
+                },
+                {
+                    "placeholder": "اختیاری"
+                },
+                {
+                    "id": "introduction-to-the-theory-of-computation"
+                },
+                {
+                    "id": "apprenticeship"
+                },
+                {
+                    "id": "artificial-intelligence"
+                },
+                {
+                    "id": "nonlinear-optimization"
+                }
+            ]
+        },
+        {
+            "term": 7,
+            "items": [
+                {
+                    "placeholder": "عمومی"
+                },
+                {
+                    "placeholder": "عمومی"
+                },
+                {
+                    "placeholder": "اختیاری"
+                },
+                {
+                    "id": "applied-time-series"
+                },
+                {
+                    "id": "mathematical-modeling"
+                },
+                {
+                    "id": "elementary-data-mining"
+                }
+            ]
+        },
+        {
+            "term": 8,
+            "items": [
+                {
+                    "placeholder": "عمومی"
+                },
+                {
+                    "placeholder": "عمومی"
+                },
+                {
+                    "placeholder": "اختیاری"
+                },
+                {
+                    "placeholder": "اختیاری"
+                },
+                {
+                    "id": "discrete-optimization"
+                },
+                {
+                    "id": "introduction-to-deep-learning"
+                }
+            ]
+        }
+    ]
+}

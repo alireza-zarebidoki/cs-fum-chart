@@ -1,0 +1,25 @@
+name: 🐛 گزارش باگ
+description: چیزی در سایت درست کار نمی‌کند یا درست نمایش داده نمی‌شود
+title: "[باگ] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: چه اتفاقی افتاد؟
+      description: آدرس صفحه و مراحل بازتولید مشکل را بنویسید.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: چه انتظاری داشتید؟
+  - type: input
+    id: env
+    attributes:
+      label: مرورگر و دستگاه
+      placeholder: "مثلاً Chrome 130 روی Android / Safari روی iPhone"
+  - type: textarea
+    id: console
+    attributes:
+      label: خطای کنسول یا اسکرین‌شات (اختیاری)

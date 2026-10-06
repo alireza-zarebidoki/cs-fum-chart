@@ -1,0 +1,36 @@
+name: 📝 اصلاح داده‌ی درس
+description: غلط تایپی/OCR، پیش‌نیاز یا هم‌نیاز اشتباه، واحد و ساعت نادرست و …
+title: "[داده] "
+labels: ["data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ممنون که به دقیق‌تر شدن داده‌ها کمک می‌کنید 🙏
+        محتوای این سایت با OCR از سند مصوب استخراج شده و ممکن است اشتباه‌های جزئی داشته باشد.
+  - type: input
+    id: course
+    attributes:
+      label: درس مربوطه
+      description: نام درس یا آدرس صفحه‌ی آن (مثلاً `course.html?id=calculus-i`)
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: متن/مقدار فعلی (اشتباه)
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: متن/مقدار درست
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: مرجع در سند مصوب
+      description: شماره‌ی صفحه‌ی `files/curriculum.pdf` یا عنوان بخش
+    validations:
+      required: true

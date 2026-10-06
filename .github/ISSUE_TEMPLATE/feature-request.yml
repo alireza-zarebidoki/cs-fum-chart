@@ -1,0 +1,21 @@
+name: ✨ پیشنهاد ویژگی
+description: ایده‌ای برای بهتر شدن سایت دارید؟
+title: "[پیشنهاد] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: مشکل یا نیاز چیست؟
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: راه‌حل پیشنهادی
+    validations:
+      required: true
+  - type: textarea
+    id: alt
+    attributes:
+      label: گزینه‌های دیگر (اختیاری)
